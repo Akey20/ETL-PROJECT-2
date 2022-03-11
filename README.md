@@ -1,2 +1,4 @@
 # ETL-PROJECT-2
-![image](https://user-images.githubusercontent.com/94247881/157788698-6df6489f-0017-4dc4-97a9-0cb13e3dc5de.png)
+**April Key, Markus Shipley, Catharine Romero, Eric East, Helen Tan**
+
+![image](https://user-images.githubusercontent.com/94247881/157790014-a92befd8-0bb1-4450-9ee4-a0fdf1458953.png)
