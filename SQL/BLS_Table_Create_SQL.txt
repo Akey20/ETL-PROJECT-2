@@ -1,21 +1,9 @@
--- Table: public.BLS
-
--- DROP TABLE IF EXISTS public."BLS";
-
 CREATE TABLE IF NOT EXISTS public."BLS"
 (
-    sector character varying(100) COLLATE pg_catalog."default" NOT NULL,
-    series_id character varying(25) COLLATE pg_catalog."default" NOT NULL,
-    year integer NOT NULL,
-    output bigint NOT NULL,
-    employment bigint NOT NULL,
-    CONSTRAINT "BLS_pkey" PRIMARY KEY (sector)
-)
-
-TABLESPACE pg_default;
-
-ALTER TABLE IF EXISTS public."BLS"
-    OWNER to postgres;
-
-COMMENT ON TABLE public."BLS"
-    IS 'Bureau of Labor Statistics Data';
+    "Series ID" text COLLATE pg_catalog."default",
+    "Year" bigint,
+    "Period" text COLLATE pg_catalog."default",
+    "Label" text COLLATE pg_catalog."default",
+    "Value" double precision,
+    "Sector" text COLLATE pg_catalog."default"
+);
