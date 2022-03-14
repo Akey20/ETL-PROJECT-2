@@ -1,29 +1,16 @@
--- Table: public.Companies
-
--- DROP TABLE IF EXISTS public."Companies";
-
 CREATE TABLE IF NOT EXISTS public."Companies"
 (
-    company character varying(75) COLLATE pg_catalog."default" NOT NULL,
-    year integer NOT NULL,
-    rank integer NOT NULL,
-    growth numeric NOT NULL,
-    workers numeric NOT NULL,
-    state_s character(2) COLLATE pg_catalog."default" NOT NULL,
-    "state_I" character varying(35) COLLATE pg_catalog."default" NOT NULL,
-    revenue integer NOT NULL,
-    yrs_on_list integer NOT NULL,
-    industry character varying(100) COLLATE pg_catalog."default" NOT NULL,
-    sector character varying(100) COLLATE pg_catalog."default" NOT NULL,
-    metro character varying(75) COLLATE pg_catalog."default" NOT NULL,
-    CONSTRAINT "Companies_pkey" PRIMARY KEY (company),
-    CONSTRAINT fk_sector FOREIGN KEY (sector)
-        REFERENCES public."BLS" (sector) MATCH SIMPLE
-        ON UPDATE NO ACTION
-        ON DELETE NO ACTION
-)
-
-TABLESPACE pg_default;
-
-ALTER TABLE IF EXISTS public."Companies"
-    OWNER to postgres;
+    year text COLLATE pg_catalog."default",
+    rank double precision,
+    city text COLLATE pg_catalog."default",
+    growth double precision,
+    workers double precision,
+    company text COLLATE pg_catalog."default",
+    state_s text COLLATE pg_catalog."default",
+    state_l text COLLATE pg_catalog."default",
+    revenue text COLLATE pg_catalog."default",
+    yrs_on_list double precision,
+    industry text COLLATE pg_catalog."default",
+    metro text COLLATE pg_catalog."default",
+    "Sector" text COLLATE pg_catalog."default"
+);
