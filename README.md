@@ -11,9 +11,9 @@ In the financial field, growth may be the single most discussed metric, it is th
 Our intent was to create a database of the fastest growing private companies in America, which could be analyzed to find common trends among the companies over time: number of employees, sector, and location. 
 We created a connected relational database for the fastest growing industries through BLS data for comparison so that the private companies can be compared relative to the sectors in which they are competing.
 
-##Research Questions this Database can Answer:
-    * What are the most common and least common sectors for the fastest growing private companies in America?
-    * What cities and states are the most common locations for the fastest growing private companies in America?  Analysis may also be performed by Sector.  Are there any              burgeoning hubs for any of these sectors?
+### Research Questions this Database can Answer:
+       1. What are the most common and least common sectors for the fastest growing private companies in America?
+       2. What cities and states are the most common locations for the fastest growing private companies in America?  Analysis may also be performed by Sector.  Are there any              burgeoning hubs for any of these sectors?
     * How many employees are typically found in the fastest growing private companies, and what does that say about the growth curve for growing businesses?
     * Among the fastest growing private companies, how does their growth compare to the overall growth of their industries? 
     * Which companies would be ranked higher or lower if compared relative to their industries and not in absolute terms?  
