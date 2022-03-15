@@ -52,6 +52,6 @@ Loading transformed data from Jupyter Notebook into PostgreSQL.
 Tables loaded into tables based on final data structure of data frames.
 An Entity Relationship Diagram is provided in the SQL Folder.
 
-Assignment of Tasks
+**Assignment of Tasks**
 Much of the work for Project 2 was collaborative during class time with some tasks completed individually between groups sessions.  
 
