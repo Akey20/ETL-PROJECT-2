@@ -26,11 +26,14 @@ Data World
 https://data.world/aurielle/inc-5000-10-years 2007 - 2017 INC 5000 companies 
 <br>
 https://data.world/aurielle/inc-5000-2018 2018 INC 5000 companies
+<br>
 https://data.world/aurielle/inc-5000-2019 2019 INC 5000 companies
+<br>
 Three csv data files used from Data World dataset.
 
 Bureau of Labor Statistics csv files
 Getting Started : U.S. Bureau of Labor Statistics (bls.gov)
+<br>
 Twenty CSV data files formatted using Pandas in Jupyter Notebook. 
 
 **Breakdown of tasks:**
