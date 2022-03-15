@@ -27,14 +27,16 @@ How many employees are typically found in the fastest growing private companies,
 Among the fastest growing private companies, how does their growth compare to the overall growth of their industries? Which companies would be ranked higher or lower if compared relative to their industries and not in absolute terms?
 
 
-Datasets to be Used:
+**Datasets to be Used:**
 Data World
 https://data.world/aurielle/inc-5000-10-years 2007 - 2017 INC 5000 companies 
 https://data.world/aurielle/inc-5000-2018 2018 INC 5000 companies
 https://data.world/aurielle/inc-5000-2019 2019 INC 5000 companies
+Three csv data files used from Data World dataset.
 
-Bureau of Labor Statistics API
+Bureau of Labor Statistics csv files
 Getting Started : U.S. Bureau of Labor Statistics (bls.gov)
+Twenty CSV data files formatted using Pandas in Jupyter Notebook. 
 
 Rough breakdown of tasks:
 Extract
@@ -46,6 +48,9 @@ Joining the 2018 and 2019 data into the main 2007 - 2017 dataset by adding the y
 Review dataset above and commence cleaning, dropping, irrelevant columns
 Add BLS data to database for annual sector growth for each industry, may require manually adjusting names to align sectors as foreign keys
 Utilizing QuickDBD to structure related data by sector
+
+Schemata used in final database
+See ERD (Entity Relationship Diagraam) in the SQL folder.  SQL used to create tables also included in the SQL folder.
 
 Load 
 Loading transformed data from Jupyter Notebook into PostgreSQL.  
