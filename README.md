@@ -22,20 +22,23 @@ We created a connected relational database for the fastest growing industries th
 
 
 **Datasets to be Used:**
-Data World
+<br>
+**Data World**
+<br>
 https://data.world/aurielle/inc-5000-10-years 2007 - 2017 INC 5000 companies 
 <br>
 https://data.world/aurielle/inc-5000-2018 2018 INC 5000 companies
 <br>
 https://data.world/aurielle/inc-5000-2019 2019 INC 5000 companies
 <br>
-Three csv data files used from Data World dataset.
-
+**Three csv data files used from Data World dataset.**
+<br>
 Bureau of Labor Statistics csv files
+<br>
 Getting Started : U.S. Bureau of Labor Statistics (bls.gov)
 <br>
 Twenty CSV data files formatted using Pandas in Jupyter Notebook. 
-
+<br>
 **Breakdown of tasks:**
 
 **Extract:**
@@ -45,7 +48,8 @@ Data from Data World was in .csv format.
 **Transform:**
 Joining the 2018 and 2019 data into the main 2007 - 2017 dataset by adding the years to the earlier data and use the "concat" function in Pandas so that every row from every year is combined into a single dataset. Columns were renamed and standardized. 
 Review dataset above and commence cleanin and dropping irrelevant columns.
-Add BLS data to database for annual sector growth for each industry, rerquired mapping industry in the DataWorld data to the sectors in the BLS data.
+Merged all BLS Data for all Sectors into a single dataframe.
+Add BLS data to database for annual sector growth for each industry, required mapping industry in the DataWorld data to the sectors in the BLS data.
 Utilizing QuickDBD to structure related data by sector.
 
 **Schemata used in final database:**
