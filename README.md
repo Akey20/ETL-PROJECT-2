@@ -34,24 +34,24 @@ Twenty CSV data files formatted using Pandas in Jupyter Notebook.
 
 **Breakdown of tasks:**
 
-**Extract**
+**Extract:**
 Retrieved data from the data Bureau of Labor statistics levergaing their "data finder" tool.  
 Data from Data World was in .csv format.  
 
-**Transform**
+**Transform:**
 Joining the 2018 and 2019 data into the main 2007 - 2017 dataset by adding the years to the earlier data and use the "concat" function in Pandas so that every row from every year is combined into a single dataset. Columns were renamed and standardized. 
 Review dataset above and commence cleanin and dropping irrelevant columns.
 Add BLS data to database for annual sector growth for each industry, rerquired mapping industry in the DataWorld data to the sectors in the BLS data.
 Utilizing QuickDBD to structure related data by sector.
 
-**Schemata used in final database**
+**Schemata used in final database:**
 See ERD (Entity Relationship Diagraam) in the SQL folder.  SQL used to create tables also included in the SQL folder.
 
-**Load** 
+**Load:** 
 Loading transformed data from Jupyter Notebook into PostgreSQL.  
 Tables loaded into tables based on final data structure of data frames.
 An Entity Relationship Diagram is provided in the SQL Folder.
 
-**Assignment of Tasks**
+**Assignment of Tasks:**
 Much of the work for Project 2 was collaborative during class time with some tasks completed individually between groups sessions.  
 
