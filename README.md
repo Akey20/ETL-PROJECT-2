@@ -56,9 +56,9 @@ An Entity Relationship Diagram is provided in the SQL Folder.
 Much of the work for Project 2 was collaborative during class time with some tasks completed individually between groups sessions.  
 
 ###**Additional Notes**
- *All CSV files are in CSV folder and BLS_CSVs Folder*
- *ERD and SQL to create database and related tables are in SQL Folder*
- *All Final Jupyter Notebooks are in the Final Notebooks Folder*
- *All Images are in the Images Folder*
+ 1. All CSV files are in CSV folder and BLS_CSVs Folder*
+ 2. ERD and SQL to create database and related tables are in SQL Folder*
+ 3. All Final Jupyter Notebooks are in the Final Notebooks Folder*
+ 4. All Images are in the Images Folder*
  
 
