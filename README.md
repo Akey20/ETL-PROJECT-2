@@ -24,6 +24,7 @@ We created a connected relational database for the fastest growing industries th
 **Datasets to be Used:**
 Data World
 https://data.world/aurielle/inc-5000-10-years 2007 - 2017 INC 5000 companies 
+<br>
 https://data.world/aurielle/inc-5000-2018 2018 INC 5000 companies
 https://data.world/aurielle/inc-5000-2019 2019 INC 5000 companies
 Three csv data files used from Data World dataset.
@@ -55,7 +56,7 @@ An Entity Relationship Diagram is provided in the SQL Folder.
 **Assignment of Tasks:**
 Much of the work for Project 2 was collaborative during class time with some tasks completed individually between groups sessions.  
 
-**###Additional Notes**
+**### Additional Notes**
  1. All CSV files are in CSV folder and BLS_CSVs Folder
  2. ERD and SQL to create database and related tables are in SQL Folder
  3. All Final Jupyter Notebooks are in the Final Notebooks Folder
