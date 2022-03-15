@@ -13,9 +13,10 @@ We created a connected relational database for the fastest growing industries th
 
 ### Research Questions this Database can Answer:
      1. What are the most common and least common sectors for the fastest growing private companies in America?
-     2. What cities and states are the most common locations for the fastest growing private companies in America?  Analysis may also be performed by Sector.  
-           Are there any burgeoning hubs for any of these sectors?
-     3. How many employees are typically found in the fastest growing private companies, and what does that say about the growth curve for growing businesses?
+     2. What cities and states are the most common locations for the fastest growing private companies in America? 
+     Analysis may also be performed by Sector. Are there any burgeoning hubs for any of these sectors?
+     3. How many employees are typically found in the fastest growing private companies,
+        and what does that say about the growth curve for growing businesses?
      4. Among the fastest growing private companies, how does their growth compare to the overall growth of their industries? 
      5. Which companies would be ranked higher or lower if compared relative to their industries and not in absolute terms?  
 
