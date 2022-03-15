@@ -10,12 +10,13 @@
 In the financial field, growth may be the single most discussed metric, it is the goal of companies from the smallest start-ups to the largest titans. While finance industry analysis more typically revolves around analyzing publicly traded companies due to greater interest from investors as well as greater availability of data, we are focusing on private companies. 
 Our intent was to create a database of the fastest growing private companies in America, which could be analyzed to find common trends among the companies over time: number of employees, sector, and location. 
 We created a connected relational database for the fastest growing industries through BLS data for comparison so that the private companies can be compared relative to the sectors in which they are competing.
-Research Questions this Database can Answer:
-    1. What are the most common and least common sectors for the fastest growing private companies in America?
-    2. What cities and states are the most common locations for the fastest growing private companies in America?  Analysis may also be performed by Sector.  Are there any              burgeoning hubs for any of these sectors?
-    3. How many employees are typically found in the fastest growing private companies, and what does that say about the growth curve for growing businesses?
-    4. Among the fastest growing private companies, how does their growth compare to the overall growth of their industries? 
-    5. Which companies would be ranked higher or lower if compared relative to their industries and not in absolute terms?  
+
+##Research Questions this Database can Answer:
+    * What are the most common and least common sectors for the fastest growing private companies in America?
+    * What cities and states are the most common locations for the fastest growing private companies in America?  Analysis may also be performed by Sector.  Are there any              burgeoning hubs for any of these sectors?
+    * How many employees are typically found in the fastest growing private companies, and what does that say about the growth curve for growing businesses?
+    * Among the fastest growing private companies, how does their growth compare to the overall growth of their industries? 
+    * Which companies would be ranked higher or lower if compared relative to their industries and not in absolute terms?  
 
 
 **Datasets to be Used:**
@@ -50,5 +51,5 @@ Tables loaded into tables based on final data structure of data frames.
 An Entity Relationship Diagram is provided in the SQL Folder.
 
 Assignment of Tasks
-The team anticipates that much of the work for Project 2 will be collaborative during class time with some outside sessions possible. As or if needed, some tasks may be assumed by individuals periodically throughout the short project.  
+Much of the work for Project 2 was collaborative during class time with some tasks completed individually between groups sessions.  
 
