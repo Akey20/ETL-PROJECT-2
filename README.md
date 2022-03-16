@@ -42,7 +42,7 @@ Getting Started : U.S. Bureau of Labor Statistics (bls.gov)
 Twenty CSV data files formatted using Pandas in Jupyter Notebook. 
 <br>
 <br>
-### Breakdown of tasks:###
+### Breakdown of tasks: ###
 
 Extract:
 Retrieved data from the data Bureau of Labor statistics levergaing their "data finder" tool.  
