@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/94247881/157790014-a92befd8-0bb1-4450-9ee4-a0fdf1458953.png)
 
 ### Project Title 
-“Sector Comparison of the top growing 1,000 private companies from 2007 - 2019”**
+**“Sector Comparison of the top growing 1,000 private companies from 2007 - 2019”**
 
 ###Project Desc/Outline**
 In the financial field, growth may be the single most discussed metric, it is the goal of companies from the smallest start-ups to the largest titans. While finance industry analysis more typically revolves around analyzing publicly traded companies due to greater interest from investors as well as greater availability of data, we are focusing on private companies. 
