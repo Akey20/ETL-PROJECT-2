@@ -6,7 +6,7 @@
 ### Project Title 
 **“Sector Comparison of the top growing 1,000 private companies from 2007 - 2019”
 
-### Project Desc/Outline**
+### Project Desc/Outline
 In the financial field, growth may be the single most discussed metric, it is the goal of companies from the smallest start-ups to the largest titans. While finance industry analysis more typically revolves around analyzing publicly traded companies due to greater interest from investors as well as greater availability of data, we are focusing on private companies. 
 Our intent was to create a database of the fastest growing private companies in America, which could be analyzed to find common trends among the companies over time: number of employees, sector, and location. 
 We created a connected relational database for the fastest growing industries through BLS data for comparison so that the private companies can be compared relative to the sectors in which they are competing.
