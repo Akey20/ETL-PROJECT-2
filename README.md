@@ -21,7 +21,7 @@ We created a connected relational database for the fastest growing industries th
      5. Which companies would be ranked higher or lower if compared relative to their industries and not in absolute terms?  
 
 
-###Datasets to be Used:**
+###Datasets to be Used:
 <br>
 **Data World**
 <br>
