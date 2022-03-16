@@ -24,7 +24,7 @@ We created a connected relational database for the fastest growing industries th
 
 ### Datasets to be Used: ###
 <br>
-**Data World**
+Data World
 <br>
 https://data.world/aurielle/inc-5000-10-years 2007 - 2017 INC 5000 companies 
 <br>
@@ -33,7 +33,7 @@ https://data.world/aurielle/inc-5000-2018 2018 INC 5000 companies
 https://data.world/aurielle/inc-5000-2019 2019 INC 5000 companies
 <br>
 <br>
-**Three csv data files used from Data World dataset.**
+Three csv data files used from Data World dataset.
 <br>
 Bureau of Labor Statistics csv files
 <br>
